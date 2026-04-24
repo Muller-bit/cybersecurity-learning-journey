@@ -13,7 +13,7 @@ cyber-fraud analysis or DeFi security.
 
 ## My target
 - Complete Google Cybersecurity Certificate (self-taught, free)
-- Pass CompTIA Security+ by end of 2025
+- Pass CompTIA Security+ by end of 2026
 - Land a junior role in financial cybersecurity or crypto security
 
 ## My background advantage
