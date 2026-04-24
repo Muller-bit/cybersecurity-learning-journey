@@ -21,9 +21,21 @@ cyber-fraud analysis or DeFi security.
 - DeFi knowledge — I understand on-chain fraud and protocol exploits
 - Fraud analysis mindset — I follow the money
 
-## This repository
-Weekly notes, project write-ups, and LinkedIn post drafts 
-documenting every lesson I learn. Updated every week.
+## What is in this repository
+Weekly notes, project write-ups, and LinkedIn post drafts
+documenting every lesson. Updated every week.
+
+## Weekly progress
+| Week | Topic | Status |
+|------|-------|--------|
+| 1 | Networks and how they get attacked | In progress |
+| 2 | Social engineering and phishing | Upcoming |
+| 3 | Cryptography | Upcoming |
+| 4 | Identity and access management | Upcoming |
+| 5 | Malware and threats | Upcoming |
+| 6 | Incident response | Upcoming |
+| 7 | Risk management frameworks | Upcoming |
+| 8 | Governance and compliance | Upcoming |
 
 ## Connect with me
-LinkedIn: https://www.linkedin.com/in/mulualem-darimo-2025621ba/
+LinkedIn: https://www.linkedin.com/in/mulualem-darimo
