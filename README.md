@@ -26,4 +26,4 @@ Weekly notes, project write-ups, and LinkedIn post drafts
 documenting every lesson I learn. Updated every week.
 
 ## Connect with me
-LinkedIn: [Your LinkedIn URL here]
+LinkedIn: https://www.linkedin.com/in/mulualem-darimo-2025621ba/
